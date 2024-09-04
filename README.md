@@ -1,6 +1,10 @@
 # Windows 10 Mobile build 15400 for all supported devices!
 With these cabs you can install 15400 on any device that can run 15254! The cabs were extracted from the 15400 leak from a Lumia 830 device. Note the cabs are Test signed as they are unofficial
 
+## Updates:
+- Removed a Resolution package that was included by accident, preventing install
+
+
 ### Requirements:
 - Cabs provided
 - A Device running 15254
