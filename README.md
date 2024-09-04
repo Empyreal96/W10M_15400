@@ -4,7 +4,7 @@ With these cabs you can install 15400 on any device that can run 15254! The cabs
 ### Requirements:
 - Cabs provided
 - A Device running 15254
-- (Flight signing files)[https://github.com/Empyreal96/W10M-16212-Guides/raw/main/SimpleFlightEnabler.zip]
+- [Flight signing files](https://github.com/Empyreal96/W10M-16212-Guides/raw/main/SimpleFlightEnabler.zip)
 - Mass Storage Access
 
 
